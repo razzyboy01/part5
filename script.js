@@ -1,0 +1,7 @@
+
+
+function display(){
+    
+    document.querySelector("#msg").
+    innerText="ABUJA: Federal Capital Territory FCT minister, Nyesom Wike on Thursday dismissed social media reports that he collapsed last week, saying with God’s help, he would sign the condolence messages of those who wished him dead. Describing the reports as the handiwork of persons trying to score cheap political points, the minister said he was in good health. Wike spoke after he inspected four ongoing projects in the territory, including the International Conference Centre ICC. He said the death rumour was an attempt by some persons who wanted to destroy critical national assets but only used the rumour to deflect attention. Wike said; “I don’t want to give credence to people who are only interested in carrying rumours.<br> “First of all, I am a human being, it is not a ghost that will collapse. It is human beings that will collapse if there is any problem with their health. Unfortunately, I did not collapse and I did not show any sign that I have any health problem. Let me tell you what happened. What happened was that you saw that the former Head of Service (in Rivers state) came out to let the public know what was going on, how they planned to bomb the House of Assembly complex and how they planned to attack national assets. In order to divert attention from people not focusing on that, they had to bring one rumor that they have been flown overseas. "
+}
